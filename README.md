@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @biganiseed
+- 👀 I’m a independent developer, used to making web applications, good at making complicated things simple.
+- 🌱 I’m currently working on Grin crypto relative product such as Wallet, Pool. 
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
